@@ -9,7 +9,7 @@ public class HelloWordTest
 	public void testSay(){
 		HelloWord helloWord = new HelloWord();
 		String result = helloWord.say();
-		assertEquals("hello maven",result); 
+		assertEquals("hello maven2",result); 
 		
 	}
 }
